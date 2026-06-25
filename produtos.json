@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+  "nome": "Presilhas de fruta",
+  "preco": 16.00,
+  "categoria": "Presilhas",
+  "imagem": "imgs/fotojson1.jpg",
+  "estoque": 15,
+  "descricao": "Notebook sustentável com materiais reciclados."
+},
+{
+  "id": 2,
+  "nome": "Presilhas de estrela",
+  "preco": 12.00,
+  "categoria": "Presilhas",
+  "imagem": "imgs/fotojson2.jpg",
+  "estoque": 50,
+  "descricao": "Mouse confortável com bateria de longa duração."
+},
+{
+  "id": 3,
+  "nome": "Pulseira vermelha",
+  "preco": 26.00,
+  "categoria": "Pulseiras",
+  "imagem": "imgs/fotojson3.jpg",
+  "estoque": 30,
+  "descricao": "Teclado com iluminação RGB personalizável."
+},
+{
+  "id": 4,
+  "nome": "Bótons diversos",
+  "preco": 5.00,
+  "categoria": "Acessórios",
+  "imagem": "imgs/fotojson4.jpg",
+  "estoque": 25,
+  "descricao": "Power bank carregado por energia solar - ODS 12."
+}
+]
